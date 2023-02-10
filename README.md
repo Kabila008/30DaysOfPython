@@ -1,3 +1,3 @@
 # 30DaysOfPython
 
-Arewa DS 30 days of python challenge
+Arewa DSF 30 days of python challenge
